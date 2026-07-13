@@ -1,0 +1,6 @@
+{
+  "name": "Real-Time Female Voice Changer",
+  "description": "An interactive real-time voice transformer that applies pitch shifting and formant adjustments to simulate a natural female voice, complete with recording, playback, and device controls.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
